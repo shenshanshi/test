@@ -2,3 +2,4 @@ hello master
 hello github
 hello push
 hello ssh
+hello sshpush
